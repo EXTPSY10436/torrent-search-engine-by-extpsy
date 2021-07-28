@@ -6,7 +6,7 @@ Added find command. Now you can add your bot in a group
 # Deployment
 Edit [Line1](https://github.com/devillD/Torrent-Searcher/blob/cd1d3c6bcb53bf5a7eca5d60163213038405de82/Dockerfile#L12) & [Line2](https://github.com/devillD/Torrent-Searcher/blob/cd1d3c6bcb53bf5a7eca5d60163213038405de82/Dockerfile#L11) with your favourite torrent site
 
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://dashboard.heroku.com/new?template=https://github.com/devillD/Torrent-Searcher/tree/main)
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://dashboard.heroku.com/new?template=https://github.com/EXTPSY10436/torrent-search-engine-by-extpsy/tree/main)
 
 # Demo Bot
 [Torrent Searcher](https://t.me/trntsrcbot)
